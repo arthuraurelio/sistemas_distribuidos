@@ -1,3 +1,5 @@
+# Projeto Sistemas Distribuídos - UFU - 2019/2
+
 ## Descrição:
 
 A proposta do projeto 'Trade2me' é fazer um sistema de bate-papo com várias salas de discução relacionada ao mercado financeiro. O cliente irá acessar o sistema e escolher a sala que deseja acessar e começar a interagir com demais usuários que estejam na mesma sala. O projeto será desenvolvido em java utilizando socket para comunicação.
